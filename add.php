@@ -5,9 +5,9 @@
     $op2 = $_REQUEST["operand2"];
 
     echo $op1 + $op2;
+	/*
+	Any text
+	*/
   }
-  else
-  {
-    echo "Bad operands format!";	
-  }
+  
 ?>
